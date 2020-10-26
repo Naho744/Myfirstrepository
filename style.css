@@ -1,3 +1,129 @@
-.Navbar-brand{
-    color: brown;
+main{
+    background-color:white;
+}
+
+.First{
+    display: flex;
+    justify-content: center;
+}
+
+.carousel{
+    width: 100%;
+
+}
+.moji{
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+}
+.moji2{
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+}
+
+.moji3{
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+    color: black;
+}
+
+.hato{margin-bottom: 50px;
+    margin-left: 45%;
+}
+.second{
+    margin: 100px 28%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.second2{
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.second3{
+    font-size: 20px;
+    
+}
+
+.Third{
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 18%;
+    text-align: center;
+    
+}
+
+.third1{
+    font-family: 'Aclonica', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Pridi', serif;
+font-size: 40px;
+color: rgb(32, 102, 233);
+}
+
+.third2{
+    margin: 15px 0;
+    font-family: 'Aclonica', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Pridi', serif;
+font-size: 25px;
+color:rgb(58, 112, 148) ;
+
+}
+
+.third3{
+    margin: 40px 0 80px 0
+}
+
+
+.fourth{
+    border:rgb(87, 102, 231) 5px dashed;
+    margin-left: 425px;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Aclonica', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Pridi', serif;
+
+
+    
+
+}
+
+button{
+    background-color: white;
+    color: black;
+    border-radius: 5%;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+
+button:hover{
+    background-color: rgba(184, 226, 243, 0.986);
+    color:white;
+}
+
+
+
+
+footer{
+    background-color: #e3f2fd;
+    font-size: 15px;
+    padding: 20px 0;
+    margin-top: 100px;
+}
+
+.Flist{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
